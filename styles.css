@@ -1,3 +1,13 @@
-.ingredients{
-    background-color: teal;
+*{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+.list{
+    padding: 8px;
+    margin: 8px;
+}
+.recipes{
+    font-size: 20px;
+    margin-left: 0px;
+    margin-bottom: 4px;
 }
