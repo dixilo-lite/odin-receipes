@@ -1,0 +1,17 @@
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.description{
+    text-align: center;
+    font-size: 20px;
+}
+.ingredients{
+padding: 8px;
+margin: 8px;
+}
+.Steps{
+padding: 8px;
+margin: 8px;
+}
